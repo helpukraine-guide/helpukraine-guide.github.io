@@ -1,0 +1,5 @@
+<ul class="nav nav-justified">
+  {{ range $b:=(index . "buttons") }}
+    <a class="button button-blue" href="{{ index $b "url" | relURL }}">{{ index  $b "text" }}</a>
+{{ end }}
+<ul>
