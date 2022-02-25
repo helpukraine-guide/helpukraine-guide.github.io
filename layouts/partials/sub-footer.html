@@ -4,12 +4,12 @@
       <div class="col-12">
         <div class="sub-footer-inner">
           <ul>
-            <li><strong>Phone: </strong>{{ .Site.Data.contact.phone }}</li>
             <li><strong>Email: </strong><a href="mailto:{{ .Site.Data.contact.email }}">
                 {{ .Site.Data.contact.email }}</a></li>
-          </ul>
-          <ul>
-            <li class="zerostatic"><a href="https://www.zerostatic.io">www.zerostatic.io</a></li>
+            <li><strong>Help us improve this site: </strong></a></li>
+              {{ range first 1 .Site.Data.social }}
+                  <a href="{{ .link }}" target="blank"><img width="20" height="20" src="{{ .image | relURL }}" title="{{ .name }}" alt="{{ .name }}" /></a></li>
+              {{ end }}
           </ul>
         </div>
       </div>
