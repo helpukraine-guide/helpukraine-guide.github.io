@@ -5,8 +5,6 @@ background: 'images/kevin-bhagat-461952-unsplash.jpg'
 ---
 {{< markdown >}}
 
-**Note:** this site is still under construction as you can see. While we get up and running, check out [this list](https://www.globalcitizen.org/en/content/ways-to-help-ukraine-conflict/) already and feel free to check the github linked in the footer to help us improve!
-
 ---
 {{</ markdown >}}
 
