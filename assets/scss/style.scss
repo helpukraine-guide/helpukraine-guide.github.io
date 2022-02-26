@@ -94,3 +94,40 @@ code {
   font-size:1rem;
   line-height:0.5rem;
 }
+
+
+.hero-image {
+  background-color: transparent;
+}
+
+// adjust header image
+div.hero-image.hero-image-setheight {
+  height: 500px;
+}
+
+// adjust header text to be easier to read
+#hero div.hero-text {
+  //width: 80%;
+  background-color: #111111aa;
+}
+
+#hero div.hero-text h1,
+#hero div.hero-text p {
+  //width: 60%;
+  //background-color: #111111aa;
+}
+
+.template-script {
+  background-color: #11111122;
+}
+
+.container-fluid ul {
+  list-style: disc;
+  list-style-position: inside;
+}
+
+section.container-fluid ul ul {
+  margin-left: 5%
+}
+
+

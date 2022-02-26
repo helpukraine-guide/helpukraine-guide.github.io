@@ -6,8 +6,9 @@ button: 'Shortlist'
 buttonLink: 'shortlist'
 ---
 
-Calling tends to be more effective than sending emails.
-Written letters also work better than email.
+Calling tends to be the most effective and fastest way to persuade your representatives.
+Written letters also work really well.
+If you are not comfortable with either, then sending an email is also helpful.
 We recommend you to call your representative(s).
 
 

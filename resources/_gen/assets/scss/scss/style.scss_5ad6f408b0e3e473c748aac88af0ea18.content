@@ -6158,4 +6158,23 @@ code {
   font-size: 1rem;
   line-height: 0.5rem; }
 
+.hero-image {
+  background-color: transparent; }
+
+div.hero-image.hero-image-setheight {
+  height: 500px; }
+
+#hero div.hero-text {
+  background-color: #111111aa; }
+
+.template-script {
+  background-color: #11111122; }
+
+.container-fluid ul {
+  list-style: disc;
+  list-style-position: inside; }
+
+section.container-fluid ul ul {
+  margin-left: 5%; }
+
 /*# sourceMappingURL=style.css.map */
