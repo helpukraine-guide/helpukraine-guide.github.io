@@ -18,7 +18,7 @@ I want to help by:
 {{</ markdown >}}
 
 {{< button-hlist >}}
-{{< hbutton text="Contacting my representives" url="contact-politician">}}
+{{< hbutton text="Contacting my representives" url="#contacting-my-representatives">}}
 {{< hbutton text="Donating" url="#donating">}}
 {{< button-hlist />}}
 
