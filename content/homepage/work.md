@@ -34,6 +34,7 @@ Here is the procedure to contact your representatives:
   - [I am a citizen of a EU member state](#i-am-a-citizen-of-a-eu-member-state)
     - [How to contact MEPs](#how-to-contact-meps)
   - [I am a citizen of the United States](#i-am-a-citizen-of-the-united-states)
+    - [How to contact the White House](#how-to-contact-the-white-house)
     - [How to contact a Senator](#how-to-contact-a-senator)
     - [How to contact a Representative](#how-to-contact-a-representative)
 - [What is the best way to contact my representatives?](#what-is-the-best-way-to-contact-my-representatives)
@@ -64,6 +65,14 @@ After clicking on an MEP, you can find their contact information at the bottom o
 ### I am a citizen of the United States
 
 As a citizen of the United States you should contact both your [Senators](#how-to-contact-a-senator) and [Representatives](#how-to-contact-a-representative).
+
+#### How to contact the White House
+
+Contact information to reach the White House directly can be found here:
+{{</ markdown >}}
+{{< create-link >}}https://www.whitehouse.gov/get-involved/write-or-call/{{</ create-link >}}
+
+{{< markdown >}}
 
 #### How to contact a Senator
 
@@ -100,7 +109,7 @@ If you are not comfortable with either, then sending an email is also helpful.
 
 The main things you should mention when contacting your representative(s) are:
 
-- You want to **increase sanctions** against Russia and its governing officials. In particular, you want Russia to be removed from the SWIFT banking system.
+- You want to **increase sanctions** against Russia and its governing officials.
 - You want your country to immediately start to provide **humanitarian aid** to those fleeing and still present in Ukraine.
 - If you are a **citizen** of a **NATO** member state, you want to create a **'no-fly' zone over Ukraine** and to provide other military aid such as weapons.
 
@@ -142,8 +151,6 @@ You: Yes please. Would you tell **[official’s name]** that I am devastated by 
 
 I would like to ask **[official’s name]** for their position on this matter, and also implore them to use their mandate to push for stricter sanctions on Russia.
 
-In my mind, the highest priority is to remove Russia from SWIFT.
-
 Following this, I think we need to extend direct humanitarian aid to the people of Ukraine. 
 
 This should include an official policy on accepting war refugees (where Slovakia has already acted in making the immigration process easier) but also in sending financial aid, medicinal supplies, and organising transports.
@@ -184,7 +191,7 @@ I am one of your constituents from **[administrative division]**, where I **[sho
 
 I am shocked by the Russian invasion of Ukraine and disappointed by our Country’s limited response.
 
-I would like to ask you for your position on this matter, and also implore you to use your mandate to push for stricter sanctions on Russia. In my mind, the highest priority is to remove Russia from SWIFT. Following this, I think we need to extend direct humanitarian aid to the people of Ukraine. This should include an official policy on accepting war refugees (where Slovakia has already acted in making the immigration process easier) but also in sending financial aid, medicinal supplies and organizing transports.
+I would like to ask you for your position on this matter, and also implore you to use your mandate to push for stricter sanctions on Russia. Following this, I think we need to extend direct humanitarian aid to the people of Ukraine. This should include an official policy on accepting war refugees (where Slovakia has already acted in making the immigration process easier) but also in sending financial aid, medicinal supplies and organizing transports.
 
 **[If you are a citizen of a NATO member state: I want us and NATO to create a 'No-Fly' zone over Ukraine.]**
 
@@ -231,3 +238,11 @@ To support the International Red Cross:
 A Ukrainian fund that helps to train military personnel and provides assistance to veterans:
 {{</ markdown >}}
 {{< create-link >}}https://savelife.in.ua/en/donate/{{</ create-link >}}
+
+{{< markdown >}}
+
+# Site Updates
+
+- [2022-02-27]: as Western countries have promised to remove Russia from SWIFT, we have updated the recommendations for what you should ask your politicians to do. We also added a link for US citizens to contact the White House directly.
+
+{{</ markdown >}}
