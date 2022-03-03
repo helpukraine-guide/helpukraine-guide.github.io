@@ -226,7 +226,7 @@ There are multiple charities that you can donate to in order to support Ukraine.
 {{</ markdown >}}
 {{< markdown >}}
 
-You can support the Ukrainian military directly here:
+You can support the Ukrainian military directly here (donations via Google pay and bank transfer):
 {{</ markdown >}}
 {{< link >}}https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi{{</ link >}}
 {{< markdown >}}
@@ -239,29 +239,24 @@ For those not comfortable with funding the war effort, you can donate to the fol
 {{</ markdown >}}
 {{< markdown >}}
 
-The National Bank of Ukraine has opened an account for humanitarian donations: 
+The National Bank of Ukraine has opened a special account for humanitarian donations (donations via Google pay and bank transfer):
 {{</ markdown >}}
 {{< link >}}https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi{{</ link >}}
 {{< markdown >}}
 
-To aid in purchasing medical supplies:
+A charity organization that offers humanitarian relief in Ukraine:
 {{</ markdown >}}
-{{< link >}}https://www.facebook.com/RazomForUkraine/fundraisers{{</ link >}}
+{{< link >}}https://razomforukraine.org/donate/{{</ link >}}
 {{< markdown >}}
 
-To support the International Red Cross:
+To support the International Red Cross in Ukraine:
 {{</ markdown >}}
 {{< link >}}https://www.icrc.org/en/where-we-work/europe-central-asia/ukraine{{</ link >}}
 {{< markdown >}}
 
-A Ukrainian fund that offers various types of support to military personnel and veterans:
+A Ukrainian fund that offers various types of support to military personnel and veterans (donations via bank transfer and Bitcoin):
 {{</ markdown >}}
 {{< link >}}https://savelife.in.ua/en/donate/{{</ link >}}
-{{< markdown >}}
-
-Various other sources for donations can be found here:
-{{</ markdown >}}
-{{< link >}}https://forum.effectivealtruism.org/posts/qkhoBJRNQT4EFWos7/are-there-effective-ways-to-help-ukrainians-right-now{{</ link >}}
 {{< markdown >}}
 
 ---
@@ -271,6 +266,11 @@ Various other sources for donations can be found here:
 {{</ markdown >}}
 {{< markdown >}}
 
+Additional information for how to help can be found here:
+{{</ markdown >}}
+{{< link >}}https://razomforukraine.org/faq/{{</ link >}}
+{{< markdown >}}
+
 Entrepreneurs in Munich are offering jobs with relocation. Feel free to share the following document with Ukrainians that are seeking a way to flee the country:
 {{</ markdown >}}
 {{< link >}}https://docs.google.com/spreadsheets/d/1vaAqB1AmkDYWo8ernP353S_DWexViaORRn58YWRXPdU/edit#gid=99692969{{</ link >}}
@@ -278,6 +278,7 @@ Entrepreneurs in Munich are offering jobs with relocation. Feel free to share th
 
 # Site Updates
 
+- [2022-03-03]: added several new Donations links. Updated some website text and styling.
 - [2022-02-27]: as Western countries have promised to remove Russia from SWIFT, we have updated the recommendations for what you should ask your politicians to do. We also added a link for US citizens to contact the White House directly.
 
 {{</ markdown >}}
