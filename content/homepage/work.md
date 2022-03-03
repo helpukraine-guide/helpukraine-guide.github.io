@@ -18,13 +18,17 @@ I want to help by:
 {{</ markdown >}}
 
 {{< button-hlist >}}
-{{< hbutton text="Contacting my representives" url="#contacting-my-representatives">}}
+{{< hbutton text="Contacting My Representives" url="#contacting-my-representatives">}}
 {{< hbutton text="Donating" url="#donating">}}
-{{< button-hlist />}}
+{{< hbutton text="Other Ways of Helping" url="#other-ways-of-helping">}}
+{{</ button-hlist >}}
 
 {{< markdown >}}
 
 ---
+
+{{</ markdown >}}
+{{< markdown >}}
 
 # Contacting My Representatives
 
@@ -42,6 +46,7 @@ Here is the procedure to contact your representatives:
   - [What should I say when I call my representative?](#what-should-i-say-when-i-call-my-representative)
   - [What should I write in the letter/email to my representative?](#what-should-i-write-in-the-letteremail-to-my-representative)
 
+---
 
 ## How do I find out who my representatives are?
 
@@ -57,7 +62,7 @@ As a citizen of the EU you can contact both your representatives in your nationa
 
 To find your MEPs search for your country on this page:
 {{</ markdown >}}
-{{< create-link >}}https://www.europarl.europa.eu/meps/en/home{{</ create-link >}}
+{{< link >}}https://www.europarl.europa.eu/meps/en/home{{</ link >}}
 
 {{< markdown >}}
 After clicking on an MEP, you can find their contact information at the bottom of the page.
@@ -70,7 +75,7 @@ As a citizen of the United States you should contact both your [Senators](#how-t
 
 Contact information to reach the White House directly can be found here:
 {{</ markdown >}}
-{{< create-link >}}https://www.whitehouse.gov/get-involved/write-or-call/{{</ create-link >}}
+{{< link >}}https://www.whitehouse.gov/get-involved/write-or-call/{{</ link >}}
 
 {{< markdown >}}
 
@@ -78,7 +83,7 @@ Contact information to reach the White House directly can be found here:
 
 To contact a Senator select your state on this page: 
 {{</ markdown >}}
-{{< create-link >}}https://www.senate.gov/senators/senators-contact.htm{{</ create-link >}}
+{{< link >}}https://www.senate.gov/senators/senators-contact.htm{{</ link >}}
 
 {{< markdown >}}
 It should then display your senators with their contact information.
@@ -87,7 +92,7 @@ It should then display your senators with their contact information.
 
 A list of your representatives can be found here:
 {{</ markdown >}}
-{{< create-link >}}https://www.house.gov/representatives{{</ create-link >}}
+{{< link >}}https://www.house.gov/representatives{{</ link >}}
 
 {{< markdown >}}
 
@@ -122,7 +127,7 @@ To see a sample script of what you can say or write:
 {{< button-hlist >}}
 {{< hbutton text="Sample Phone Script" url="#what-should-i-say-when-i-call-my-representative">}}
 {{< hbutton text="Sample Written Letter" url="#what-should-i-write-in-the-letteremail-to-my-representative">}}
-{{< button-hlist />}}
+{{</ button-hlist >}}
 
 {{< markdown >}}
 {{</ markdown >}}
@@ -214,31 +219,61 @@ Best regards,
 
 There are multiple charities that you can donate to in order to support Ukraine. We list some recommended charities here. 
 
+---
+
 ### Supporting the Ukrainian Military
+
+{{</ markdown >}}
+{{< markdown >}}
 
 You can support the Ukrainian military directly here:
 {{</ markdown >}}
-{{< create-link >}}https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi{{</ create-link >}}
+{{< link >}}https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-spetsrahunok-dlya-zboru-koshtiv-na-potrebi-armiyi{{</ link >}}
 {{< markdown >}}
+
+---
 
 ### Humanitarian Charities
 
 For those not comfortable with funding the war effort, you can donate to the following humanitarian charities.
+{{</ markdown >}}
+{{< markdown >}}
+
+The National Bank of Ukraine has opened an account for humanitarian donations: 
+{{</ markdown >}}
+{{< link >}}https://bank.gov.ua/en/news/all/natsionalniy-bank-vidkriv-rahunok-dlya-gumanitarnoyi-dopomogi-ukrayintsyam-postrajdalim-vid-rosiyskoyi-agresiyi{{</ link >}}
+{{< markdown >}}
 
 To aid in purchasing medical supplies:
 {{</ markdown >}}
-{{< create-link >}}https://www.facebook.com/RazomForUkraine/fundraisers{{</ create-link >}}
+{{< link >}}https://www.facebook.com/RazomForUkraine/fundraisers{{</ link >}}
 {{< markdown >}}
 
 To support the International Red Cross:
 {{</ markdown >}}
-{{< create-link >}}https://www.icrc.org/en/where-we-work/europe-central-asia/ukraine{{</ create-link >}}
+{{< link >}}https://www.icrc.org/en/where-we-work/europe-central-asia/ukraine{{</ link >}}
 {{< markdown >}}
 
-A Ukrainian fund that helps to train military personnel and provides assistance to veterans:
+A Ukrainian fund that offers various types of support to military personnel and veterans:
 {{</ markdown >}}
-{{< create-link >}}https://savelife.in.ua/en/donate/{{</ create-link >}}
+{{< link >}}https://savelife.in.ua/en/donate/{{</ link >}}
+{{< markdown >}}
 
+Various other sources for donations can be found here:
+{{</ markdown >}}
+{{< link >}}https://forum.effectivealtruism.org/posts/qkhoBJRNQT4EFWos7/are-there-effective-ways-to-help-ukrainians-right-now{{</ link >}}
+{{< markdown >}}
+
+---
+
+# Other Ways of Helping
+
+{{</ markdown >}}
+{{< markdown >}}
+
+Entrepreneurs in Munich are offering jobs with relocation. Feel free to share the following document with Ukrainians that are seeking a way to flee the country:
+{{</ markdown >}}
+{{< link >}}https://docs.google.com/spreadsheets/d/1vaAqB1AmkDYWo8ernP353S_DWexViaORRn58YWRXPdU/edit#gid=99692969{{</ link >}}
 {{< markdown >}}
 
 # Site Updates

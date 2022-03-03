@@ -130,4 +130,25 @@ section.container-fluid ul ul {
   margin-left: 5%
 }
 
+section.external-link {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 1rem;
+}
 
+ul.button-hlist {
+  display: flex;
+  width: 100%;
+}
+
+a.hbutton {
+  inline-size: 11em;
+  // overflow-wrap: break-word;
+  white-space: normal;
+  height: 62px;
+  text-align: center;
+  vertical-align: middle;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
